@@ -48,22 +48,6 @@
 
 ---
 
-### 🌐 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://roblox.com" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-Perfil-red?style=for-the-badge&logo=roblox&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Comunidade-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <sub>👁️ Visitas ao Perfil</sub><br>
   <img src="https://komarev.com/ghpvc/?username=duckblox&color=00ffcc&style=flat-square" alt="Contador de Visitas" />
