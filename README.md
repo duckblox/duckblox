@@ -1,43 +1,39 @@
-<!-- CABEÇALHO FUTURISTA -->
+<!-- CABEÇALHO DUCKBLOX -->
 <p align="center">
   <h1 align="center">🦆 DUCKBLOX</h1>
-  <p align="center"><em>Where Education, Games, and Roblox Converge.</em></p>
+  <p align="center"><em>Bem-vindo</em></p>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Online-00ffcc?style=for-the-badge&logo=power&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Specialization-Roblox%20%26%20EdTech-ff007f?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Game%20Dev-00a8ff?style=for-the-badge&logo=gamepad&logoColor=white" />
-</p>
-
----
-
-### 💻 Tech Stack & Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,html,css,git,github,vscode,figma" alt="Linguagens e Ferramentas" />
+  <img src="https://img.shields.io/badge/Foco-EdTech%20%26%20Gamifica%C3%A7%C3%A3o-00ffcc?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/P%C3%BAblico-Educa%C3%A7%C3%A3o%20Infantil%20(10%20anos)-ff007f?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 ---
 
-### 🎮 Roblox & Plataformas
+### 🎯 Projetos & Destaques
+
+* 📐 **Matemática Divertida:** Jogos e ferramentas interativas projetadas para ajudar crianças de ~10 anos a aprender matemática brincando.
+* 🛸 **Simulador Space Cockpit:** Experiência imersiva simulando o painel de controle de uma nave espacial.
+* 🌐 **Desenvolvimento Web & Python:** Projetos práticos integrando lógica, matemática e interfaces dinâmicas.
+
+---
+
+### 💻 Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Luau-002050?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-EdTech-00ffcc?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Linguagens e Ferramentas" />
 </p>
 
 ---
 
-### 📈 Estatísticas & Termômetro de Commits
+### 📊 Estatísticas & Termômetro de Commits
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais do GitHub -->
+  <!-- Estatísticas Gerais do GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=duckblox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
   
-  <!-- Termômetro de Sequência (Streak) de Commits -->
+  <!-- Termômetro de Frequência de Commits (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duckblox&theme=tokyonight&hide_border=true" alt="Termômetro de Commits" height="165" />
 </p>
 
